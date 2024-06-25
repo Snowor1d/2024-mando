@@ -8,7 +8,7 @@
 # 영어 텍스트 마이닝 
 -> 키워드 추출, 요약, 단락 구분 모두 가능함
 
-## (1) 키워드 추출
+##   (1) 키워드 추출
 https://towardsdatascience.com/keyword-extraction-process-in-python-with-natural-language-processing-nlp-d769a9069d5c
 
 키워드 추출 라이브러리들
@@ -38,7 +38,7 @@ Bag of Words (단어들이 들어있는 가방) : 단어들의 출현빈도(freq
 -> 어간 추출(stemming) -> 표제어 추출(Lemmatization) -> 개체명 인식(Named Entity Recognition) -> Bag of Words -> 키워드 추출*
 
 
-## (2) 텍스트 요약
+##   (2) 텍스트 요약
 요약에는 두가지 방법이 있는데  
 Extractive methods -> 원본에서 문장 그대로 추출, 텍스트 재구성  
 Abstractive methods -> 완전히 새로운 문장으로 텍스트 재구성  
@@ -63,7 +63,7 @@ BERT(bidirectional encoder) + GPT(generation task) -> BART (seq2seq 형태)
   
 https://github.com/uoneway/Text-Summarization-Repo
 
-## (3) 단락구분
+##   (3) 단락구분
 - Free Chat GPT  
 - Hyperwrite
 
@@ -76,8 +76,9 @@ Dot product - cosine similarity(유사도) -> 파이썬 라이브러리 sklearn 
  (극소값 기준으로 text split, identifying split spots)  
  https://eehoeskrap.tistory.com/186
 
-## (4) Multipe documents matching
+##   (4) Multipe documents matching
  <img width="340" alt="image" src="https://github.com/Snowor1d/2024-mando/assets/96639889/68754d08-53b3-4b73-83cd-9d8ddfaf0578">  
+
 
 # Vision scaling
 
