@@ -26,7 +26,7 @@ Gensim : keyword 추출 뿐만 아니라 summarization, text similarity 모두 �
 (기술적 얘기)
 정제 : 데이터 전처리, RE를 이용하여 특수 기호 제거 (토큰화 하기전)
 
-정규화 (normalization) : 표현 방법이 다른 단어들 통합 (UK = United Kingdom, 10-10-22 = 10-10-2022)
+정규화 (normalization) : 표현 방법이 다른 단어들 통합 (UK = United Kingdom, 10-10-22 = 10-10-2022)  
 토큰화 (Tokenizatin) : 문장, 단어 분리 NLTK라는 유명한 토큰화 도구 존재
 Pos(Parts of Speech) 태깅 : 각 토큰에 해당하는 품사 붙여주기, averaged-perceptron-tagger 
 불용어 : 자주 등장하지만 큰 의미가 없는 단어 처리 (I, you, she..)
