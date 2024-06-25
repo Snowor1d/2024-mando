@@ -81,6 +81,29 @@ Dot product - cosine similarity(유사도) -> 파이썬 라이브러리 sklearn 
 
 
 # Vision scaling
+이미지 vision processing시 사이즈나 scaling의 문제가 있을 수 있음
+이미지의 사이즈를 맞추려고 하면? -> scale의 문제 발생
+
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/720a909f-64a3-454a-8562-0abf461a1187)
+
+스케일과 상관없이 프로세싱을 하려면 이미지의 크기를 변화시켜가며 분석 작업을 하는 것이 중요 
+Gaussian Pyramid -> 피라미드를 생성할때 블러링과 다운 샘플링을 통해, 이미지를 축소해가며 샘플링  
+
+scale space : 대상이 가질 수 있는 다양한 스케일의 범위를 한꺼번에 표현
+(대상의 구조를 여러 스케일에 걸쳐 다루기 위함)
+https://darkpgmr.tistory.com/137
+
+Machine Learning and Computer Vision for PCB Verification - CHEN YANG
+
+faster R­CNN is a improved algorithm from R­CNN, while there is
+another intermediate version called fast R­CNN   
+
+SIFT (Scale-invarinat Feature Transform)
+1. 다양한 크기의 Laplace feature map을 통해 blob 위치 검출
+2. feature map의 크기를 변경해 가며 blob의 크기 검출
+   -> 다양한 크기의 특징점을 얻을 수 있게됨
+
+
 
 
 
