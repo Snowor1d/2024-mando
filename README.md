@@ -12,14 +12,20 @@
 https://towardsdatascience.com/keyword-extraction-process-in-python-with-natural-language-processing-nlp-d769a9069d5c
 
 키워드 추출 라이브러리들
-spaCy, YAKE, Rake-Nltk, Gensim 
+spaCy, YAKE, Rake-Nltk, Gensim
+
 spaCy : NLP위한 파이썬 라이브러리 (summarization도 가능)
+
 YAKE : 키워드 추출 개수등 여러 지원 기능
-RAKE-Nltk : RAKE(Rapid Automatic Keyword Extraction) algorithm + NLTK toolkit 
+
+RAKE-Nltk : RAKE(Rapid Automatic Keyword Extraction) algorithm + NLTK toolkit
+
 Gensim : keyword 추출 뿐만 아니라 summarization, text similarity 모두 가능 
+
 
 (기술적 얘기)
 정제 : 데이터 전처리, RE를 이용하여 특수 기호 제거 (토큰화 하기전)
+
 정규화 (normalization) : 표현 방법이 다른 단어들 통합 (UK = United Kingdom, 10-10-22 = 10-10-2022)
 토큰화 (Tokenizatin) : 문장, 단어 분리 NLTK라는 유명한 토큰화 도구 존재
 Pos(Parts of Speech) 태깅 : 각 토큰에 해당하는 품사 붙여주기, averaged-perceptron-tagger 
