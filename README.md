@@ -2,9 +2,6 @@
 2024 만도 하계실습 레포입니다. 
 
 
-1 - 텍스트마이닝
--> 추출된 문장에서 인사이트를 얻는 것
-
 # 영어 텍스트 마이닝 
 -> 키워드 추출, 요약, 단락 구분 모두 가능함
 
@@ -113,7 +110,14 @@ Resizing 기법
 image normalization -> 이미지 픽셀값의 범위를 조정하는 거지, size나 scale과 관련된 건 아닌 듯 . .  
 주로 vision 쪽에서 행해지는 segmentation, recognition, object detection 쪽에서는 이미지 입력 크기를 resizing(input 이미지 사이즈를 통일 -> 계산 효율적)하는 것이 전부  
 
+# Other?
 
+https://csdl.postech.ac.kr/bbs/board.php?bo_table=sub6_1&wr_id=265
+https://ieeexplore.ieee.org/document/9181149
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/55cdf943-9955-43db-9601-69096782ba05)
+
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/9306701f-ef98-4ae9-ace7-ac19afa8e6b2)
+https://arxiv.org/pdf/2001.01808
 
 
 
