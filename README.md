@@ -103,6 +103,21 @@ SIFT (Scale-invarinat Feature Transform)
 2. feature map의 크기를 변경해 가며 blob의 크기 검출
    -> 다양한 크기의 특징점을 얻을 수 있게됨
 
+image resize
+- Pillow (python imaging library)
+- openCV
+
+Resizing 기법
+-> Nearest Neighbor Interpolation, Bilinear Interpolation, Bicubic Interpolation, Resizing with Anti-Aliasing, Content-Aware Resizing
+
+image normalization -> 이미지 픽셀값의 범위를 조정하는 거지, size나 scale과 관련된 건 아닌 듯 . .  
+주로 vision 쪽에서 행해지는 segmentation, recognition, object detection 쪽에서는 이미지 입력 크기를 resizing(input 이미지 사이즈를 통일 -> 계산 효율적)하는 것이 전부  
+
+
+
+
+
+
 
 
 
