@@ -116,6 +116,7 @@ https://csdl.postech.ac.kr/bbs/board.php?bo_table=sub6_1&wr_id=265
 https://ieeexplore.ieee.org/document/9181149
 ![image](https://github.com/Snowor1d/2024-mando/assets/96639889/55cdf943-9955-43db-9601-69096782ba05)
 
+AutoCkt (Reinforcement 기반 회로설계 플랫폼) 
 ![image](https://github.com/Snowor1d/2024-mando/assets/96639889/9306701f-ef98-4ae9-ace7-ac19afa8e6b2)
 https://arxiv.org/pdf/2001.01808
 
