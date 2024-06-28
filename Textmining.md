@@ -69,6 +69,10 @@ Cloud Server (4-Core Intel Xeon Skylake @ 2.40GHz, 24GB RAM, NVIDIA GeForce RTX 
 RLHF까지는 Nvidia 3000대의 GPU로도 충분할 것. (CPU만으로도 돌아갈 것 같긴 함)  
 그러나 fine-tunning에는 최소 24GB의 VRAM을 가진 GPU필요.  
 
+required data - reference(RAG)  
+                tranningdata(finetunning? RAG?)  
+                
+
 표, 사진 데이터는 ?  
 word에 있는 표는 col-row 데이터로 변환 가능  
 scan파일에 있는 표는 고민해봐야 될듯  
