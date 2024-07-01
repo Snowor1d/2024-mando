@@ -124,9 +124,30 @@ https://arxiv.org/pdf/2001.01808
 
 
 
+진행 사항 
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/e14e96a9-7cdc-4604-adc5-17a8ce18b656)
+
+llama 모델 사용, 텍스트 분류 테스트
+
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/b8477bf8-65d9-417e-a1fa-e58720ad022c)  
+Template
 
 
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/fda87e97-6b07-4295-9539-6f6c893277fa)
+Query
 
+-> 모든 texts들을 2번 (Conducted Emission-Voltage Method)로 매치함, references가 있더라도 단락만 보고 키워드를 매치시키는 건 어렵다는 결론
+
+
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/9efb85b3-6604-45a8-93c4-37563ee3bd83)
+상세 질문에도 바로 적용해 보았으나, 답을 도출해내지 못함.  
+전문용어가 많고 텍스트 분량이 난해해서 의미 도출을 힘들어하는 것 같음  
+
+텍스트 분류는, 따로 text split (similarity 분석)을 통해 해야 할듯  
+
+
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/b627f269-1b91-4377-8551-38bf7e153c5a)
+spec 문서 단락 구분에 사용된 정규 표현식 
 
                    
 
