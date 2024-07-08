@@ -146,13 +146,36 @@ Query
 
 **텍스트 분류는, 따로 text split (similarity 분석)을 통해 해야 할듯**    
 
+## text split
 
 ![image](https://github.com/Snowor1d/2024-mando/assets/96639889/b627f269-1b91-4377-8551-38bf7e153c5a)  
 spec 문서 단락 구분에 사용된 정규 표현식 
 
+text 단락 구분 방법  
+
+1. 지정된 규칙대로 text split (1.1 과 같은 구분자가 있거나, 텍스트가 일정 길이 이상이거나 하면 자르기)
+2. split된 항목들을 cosine similarity 비교하여 구분  
+
+   ![image](https://github.com/Snowor1d/2024-mando/assets/96639889/4a9add59-a2ab-4ba8-bc95-990288659896)
+
                    
 
+## keyword extraction
 
+1. yake 알고리즘
+-  ![image](https://github.com/Snowor1d/2024-mando/assets/96639889/793d1105-5af5-4dfa-8230-ed2598797afb)  
+  (keyword_extraction.py)
+- 결과
   
+ ![image](https://github.com/Snowor1d/2024-mando/assets/96639889/2d70d115-33b8-4a6d-99b5-e22c1b7ea388)  
+**keyword는 잘 뽑아내는 것 처럼 보이나, stopwords를 정의해도 잘 반영되지 않는다는 문제가 있는듯**  
 
+2. rake 알고리즘 & cosine similarity 분석 통해 테스트명 매치
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/7310af56-3908-4973-a278-2d2132295091)  
+(keyword_extraction_and_match.py)
+
+결과  
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/a06eb006-d4be-4c07-bb08-e886c842e94b)
+(ford specs 9, 10, 12 매치시 결과)  
+**검증 필요, stop words또한 잘 정의해줘야 할 듯**
 
