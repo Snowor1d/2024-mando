@@ -177,5 +177,7 @@ text 단락 구분 방법
 결과  
 ![image](https://github.com/Snowor1d/2024-mando/assets/96639889/a06eb006-d4be-4c07-bb08-e886c842e94b)  
 (ford specs 9, 10, 12 매치시 결과)  
-**검증 필요, stop words또한 잘 정의해줘야 할 듯**
+**검증 필요, stop words또한 잘 정의해줘야 할 듯**  
+
+EMC specs쪽에 특화된 임베딩 모델을 사전학습시켜야할 필요가 있지 않을까?  
 
