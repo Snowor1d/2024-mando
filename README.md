@@ -172,10 +172,10 @@ text 단락 구분 방법
 
 2. rake 알고리즘 & cosine similarity 분석 통해 테스트명 매치
 ![image](https://github.com/Snowor1d/2024-mando/assets/96639889/7310af56-3908-4973-a278-2d2132295091)  
-(keyword_extraction_and_match.py)
+(keyword_extraction_and_match.py)  
 
 결과  
-![image](https://github.com/Snowor1d/2024-mando/assets/96639889/a06eb006-d4be-4c07-bb08-e886c842e94b)
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/a06eb006-d4be-4c07-bb08-e886c842e94b)  
 (ford specs 9, 10, 12 매치시 결과)  
 **검증 필요, stop words또한 잘 정의해줘야 할 듯**
 
