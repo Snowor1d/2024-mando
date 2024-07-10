@@ -181,3 +181,11 @@ text 단락 구분 방법
 
 EMC specs쪽에 특화된 임베딩 모델을 사전학습시켜야할 필요가 있지 않을까?  
 
+rake 알고리즘 & cosine similarity 분석, 매치시 
+(ford specs 8, 9, 10, 11, 13, 17, 25)  
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/bcf8fcf9-9abc-4807-b039-5a76b1578111)  
+85퍼센트의 정답률 보임 
+
+
+
+
