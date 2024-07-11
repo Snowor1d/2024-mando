@@ -86,4 +86,66 @@ scan파일에 있는 표는 고민해봐야 될듯
 8월 1주차 - RLHF 방식 적용 및 테스트  
     2주차 - Fine tunning 기법 적용 방안 모색, 배포 및 문서화  
     3주차 - 배포 (python exe or docker . . ) 및 문서화
+
+
+## llama3 사용 텍스트 매치 시도
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/e14e96a9-7cdc-4604-adc5-17a8ce18b656)  
+
+llama 모델 사용, 텍스트 분류 테스트
+
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/b8477bf8-65d9-417e-a1fa-e58720ad022c)    
+Template
+
+
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/fda87e97-6b07-4295-9539-6f6c893277fa)  
+Query
+
+-> 모든 texts들을 2번 (Conducted Emission-Voltage Method)로 매치함, **references가 있더라도 단락만 보고 키워드를 매치시키는 건 어렵다는 결론**
+
+
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/9efb85b3-6604-45a8-93c4-37563ee3bd83)  
+상세 질문에도 바로 적용해 보았으나, 답을 도출해내지 못함.  
+전문용어가 많고 텍스트 분량이 난해해서 의미 도출을 힘들어하는 것 같음  
+
+**텍스트 분류는, 따로 text split (similarity 분석)을 통해 해야 할듯**    
+
+## text split
+
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/b627f269-1b91-4377-8551-38bf7e153c5a)  
+spec 문서 단락 구분에 사용된 정규 표현식 
+
+text 단락 구분 방법  
+
+1. 지정된 규칙대로 text split (1.1 과 같은 구분자가 있거나, 텍스트가 일정 길이 이상이거나 하면 자르기)
+2. split된 항목들을 cosine similarity 비교하여 구분  
+
+   ![image](https://github.com/Snowor1d/2024-mando/assets/96639889/4a9add59-a2ab-4ba8-bc95-990288659896)
+
+                   
+
+## keyword extraction
+
+1. yake 알고리즘
+-  ![image](https://github.com/Snowor1d/2024-mando/assets/96639889/793d1105-5af5-4dfa-8230-ed2598797afb)  
+  (keyword_extraction.py)
+- 결과
   
+ ![image](https://github.com/Snowor1d/2024-mando/assets/96639889/2d70d115-33b8-4a6d-99b5-e22c1b7ea388)  
+**keyword는 잘 뽑아내는 것 처럼 보이나, stopwords를 정의해도 잘 반영되지 않는다는 문제가 있는듯**  
+
+2. rake 알고리즘 & cosine similarity 분석 통해 테스트명 매치
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/7310af56-3908-4973-a278-2d2132295091)  
+(keyword_extraction_and_match.py)  
+
+결과  
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/a06eb006-d4be-4c07-bb08-e886c842e94b)  
+(ford specs 9, 10, 12 매치시 결과)  
+**검증 필요, stop words또한 잘 정의해줘야 할 듯**  
+
+EMC specs쪽에 특화된 임베딩 모델을 사전학습시켜야할 필요가 있지 않을까?  
+
+rake 알고리즘 & cosine similarity 분석, 매치시 
+(ford specs 8, 9, 10, 11, 13, 17, 25)  
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/bcf8fcf9-9abc-4807-b039-5a76b1578111)  
+85퍼센트의 정답률 보임 
+
