@@ -87,6 +87,11 @@ scan파일에 있는 표는 고민해봐야 될듯
     2주차 - Fine tunning 기법 적용 방안 모색, 배포 및 문서화  
     3주차 - 배포 (python exe or docker . . ) 및 문서화
 
+## 계획2
+~ 7월 2주차 - paragraph와 분류표 match
+3주차 - paragraph split, 전체 문서를 input으로 분류표 match
+4주차~ - query 
+
 
 ## llama3 사용 텍스트 매치 시도
 ![image](https://github.com/Snowor1d/2024-mando/assets/96639889/e14e96a9-7cdc-4604-adc5-17a8ce18b656)  
@@ -146,6 +151,10 @@ EMC specs쪽에 특화된 임베딩 모델을 사전학습시켜야할 필요가
 
 rake 알고리즘 & cosine similarity 분석, 매치시 
 (ford specs 8, 9, 10, 11, 13, 17, 25)  
-![image](https://github.com/Snowor1d/2024-mando/assets/96639889/bcf8fcf9-9abc-4807-b039-5a76b1578111)  
-85퍼센트의 정답률 보임 
+
+![image](https://github.com/Snowor1d/2024-mando/assets/96639889/3621e29c-977f-463c-9606-32a6c978cc25)  
+100%의 정답률을 보임 
+
+
+
 
