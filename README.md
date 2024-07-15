@@ -190,6 +190,7 @@ rake 알고리즘 & cosine similarity 분석, 매치시
 -> 단락 구분 기준 문장을 제시하면, pdf나 docx파일을 제시된 문장에 맞게 나누고 test 항목과 match  
 
 각 FAW, NIO, CVTC 문서로 테스트  
+
 **NIO 결과**  
 ![image](https://github.com/user-attachments/assets/ae42e549-e983-4c11-a14d-9ad5df1d4da3)  
 정답률 20%  
