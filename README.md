@@ -189,16 +189,16 @@ rake 알고리즘 & cosine similarity 분석, 매치시
 ## document_keyword_match.py  
 -> 단락 구분 기준 문장을 제시하면, pdf나 docx파일을 제시된 문장에 맞게 나누고 test 항목과 match  
 
-각 FAW, NIO, CVTC 문서로 테스트
-**NIO 결과**
+각 FAW, NIO, CVTC 문서로 테스트  
+**NIO 결과**  
 ![image](https://github.com/user-attachments/assets/ae42e549-e983-4c11-a14d-9ad5df1d4da3)  
 정답률 20%  
 
-**FAW 결과**
+**FAW 결과**  
 ![image](https://github.com/user-attachments/assets/3207d35e-5f46-4714-9e35-045f8419cb62)
 정답률 60%
 
-**CVTC 결과**
+**CVTC 결과**  
 ![image](https://github.com/user-attachments/assets/b9988b13-aa24-4bd5-9093-c2e7f6f3d08a)  
 정답률 60%  
 
