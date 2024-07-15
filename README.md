@@ -195,7 +195,7 @@ rake 알고리즘 & cosine similarity 분석, 매치시
 정답률 20%  
 
 **FAW 결과**  
-![image](https://github.com/user-attachments/assets/3207d35e-5f46-4714-9e35-045f8419cb62)
+![image](https://github.com/user-attachments/assets/3207d35e-5f46-4714-9e35-045f8419cb62)  
 정답률 60%
 
 **CVTC 결과**  
