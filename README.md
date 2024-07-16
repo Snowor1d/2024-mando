@@ -189,6 +189,9 @@ rake 알고리즘 & cosine similarity 분석, 매치시
 ## document_keyword_match.py  
 -> 단락 구분 기준 문장을 제시하면, pdf나 docx파일을 제시된 문장에 맞게 나누고 test 항목과 match  
 
+![image](https://github.com/user-attachments/assets/5747592d-1e1f-4035-ae46-250f0e123cf9)  
+
+
 각 FAW, NIO, CVTC 문서로 테스트  
 
 **NIO 결과**  
