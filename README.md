@@ -203,8 +203,9 @@ rake 알고리즘 & cosine similarity 분석, 매치시
 ![image](https://github.com/user-attachments/assets/b9988b13-aa24-4bd5-9093-c2e7f6f3d08a)  
 정답률 60%  
 
-
-
+## keyword scoring   
+- 각 test 별 단어 빈도 TOP 20 (stop words 제외)  
+![image](https://github.com/user-attachments/assets/d4bac28d-729a-404b-b3ba-6c5589daacbb)
 
 
 
