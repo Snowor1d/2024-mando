@@ -210,5 +210,21 @@ rake 알고리즘 & cosine similarity 분석, 매치시
 - 각 test 별 단어 빈도 TOP 20 (stop words 제외)  
 ![image](https://github.com/user-attachments/assets/d4bac28d-729a-404b-b3ba-6c5589daacbb)
 
+- test 별로 키워드 추가 (Excel표 참고)
+![image](https://github.com/user-attachments/assets/8cf8d001-1579-4448-9298-7f30dfcb294f)
+
+**CVTC 결과**
+![image](https://github.com/user-attachments/assets/cb8330bd-8566-4ac5-9a4c-8e7064cc6456)  
+정답률 90%, 오답 : immunity test  
+
+**FAW 결과**
+정답률 60% 동일
+
+**NIO 결과**
+![image](https://github.com/user-attachments/assets/605b733b-7a02-4e2f-a2c0-7845a98c859b)  
+정답률 85프로, 오답 : Conducted Emission- Current Method, Electrostatic Discharge (ESD) - Powered-up Discharge 
+
+
+
 
 
