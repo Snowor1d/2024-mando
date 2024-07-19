@@ -227,16 +227,16 @@ rake 알고리즘 & cosine similarity 분석, 매치시
 ![image](https://github.com/user-attachments/assets/19d64961-f69e-4190-a6cf-4a932c097168)  
 추가 키워드
 
-**CVTC 결과**
-![image](https://github.com/user-attachments/assets/e1bf8d55-8d32-4de4-accc-4258f25125cd)  
+**CVTC 결과**  
+![image](https://github.com/user-attachments/assets/e1bf8d55-8d32-4de4-accc-4258f25125cd)    
 정답률 : 80%  
 
 **FAW 결과** 
-![image](https://github.com/user-attachments/assets/3e5a52c3-8bc7-47c6-b67a-1a2f6d360ce4)  
+![image](https://github.com/user-attachments/assets/3e5a52c3-8bc7-47c6-b67a-1a2f6d360ce4)    
 정답률 100프로  
 
-**NIO 결과**  
-![image](https://github.com/user-attachments/assets/b92f3182-38ca-4bff-a57a-442a3ba27a19)
+**NIO 결과**   
+![image](https://github.com/user-attachments/assets/b92f3182-38ca-4bff-a57a-442a3ba27a19)  
 정답률 80프로  
 
 
