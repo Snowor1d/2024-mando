@@ -454,7 +454,8 @@ rake 알고리즘 & cosine similarity 분석, 매치시
 (ford specs 8, 9, 10, 11, 13, 17, 25)  
 
 ![image](https://github.com/Snowor1d/2024-mando/assets/96639889/3621e29c-977f-463c-9606-32a6c978cc25)  
-100%의 정답률을 보임 
+100%의 정답률을 보임  
+
 전체 아키텍쳐 (파워포인트, draw.io가 다 안돼서 다른 애플리케이션 이용했는데 다하고 내보내기 하려니까 돈내라 하고 캡처도 막아놔서.. 나중에 수정하겠습니다.)  
 ![1000007507](https://github.com/user-attachments/assets/d955e8cf-0971-4451-b51f-04d5e17ff4ad)
 
