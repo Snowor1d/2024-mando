@@ -459,3 +459,9 @@ rake 알고리즘 & cosine similarity 분석, 매치시
 전체 아키텍쳐 (파워포인트, draw.io가 다 안돼서 다른 애플리케이션 이용했는데 다하고 내보내기 하려니까 돈내라 하고 캡처도 막아놔서.. 나중에 수정하겠습니다.)  
 ![1000007507](https://github.com/user-attachments/assets/d955e8cf-0971-4451-b51f-04d5e17ff4ad)
 
+**베이지안 최적화를 이용한 파라미터 튜닝**  
+500 iteration 결과  
+![image](https://github.com/user-attachments/assets/b41c20f9-9dd8-4a49-a2d7-1360e04aed29)  
+
+
+
