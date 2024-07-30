@@ -460,12 +460,13 @@ rake 알고리즘 & cosine similarity 분석, 매치시
 ![1000007507](https://github.com/user-attachments/assets/d955e8cf-0971-4451-b51f-04d5e17ff4ad)
 
 **베이지안 최적화를 이용한 파라미터 튜닝**  
-![image](https://github.com/user-attachments/assets/919925f9-cd75-4807-880d-cd95bf13b5c5)  
+![image](https://github.com/user-attachments/assets/f5e06ecd-419d-48f5-96ba-5d67703cc132)  
 베이지안 최적화
 
 20 init points, 100 iterations 결과  
 정답률 : 88% (6개 documents)  
-![image](https://github.com/user-attachments/assets/f5e06ecd-419d-48f5-96ba-5d67703cc132)  
+![image](https://github.com/user-attachments/assets/919925f9-cd75-4807-880d-cd95bf13b5c5)  
+
 
 
 
