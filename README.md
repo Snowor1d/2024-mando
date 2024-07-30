@@ -469,7 +469,15 @@ rake 알고리즘 & cosine similarity 분석, 매치시
 
 30 init points, 200 iterations 결과
 정답률 : 89% (6개 documents)
-![image](https://github.com/user-attachments/assets/6dc2757b-0942-4544-bcdb-0fa5a8a72810)
+![image](https://github.com/user-attachments/assets/6dc2757b-0942-4544-bcdb-0fa5a8a72810)  
+
+![image](https://github.com/user-attachments/assets/f10a3fbc-e6f8-4c38-b3a4-c5e8ea80d0d8)  
+정답률 88프로일때 parameters  
+
+![image](https://github.com/user-attachments/assets/b9561373-1651-49d8-9296-96222be6c568)  
+
+
+
 
 
 
