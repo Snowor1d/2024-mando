@@ -476,7 +476,7 @@ rake 알고리즘 & cosine similarity 분석, 매치시
 
 ![image](https://github.com/user-attachments/assets/b9561373-1651-49d8-9296-96222be6c568)  
 
-new parameters   
+new parameters (init_points = 100, n_iter=500, 5시간 소요)  
 ![image](https://github.com/user-attachments/assets/917e7a9d-2aba-439c-9aa0-d0d2c2090cd6)  
 
 
