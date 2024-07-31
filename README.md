@@ -479,6 +479,10 @@ rake 알고리즘 & cosine similarity 분석, 매치시
 new parameters (init_points = 100, n_iter=500, 5시간 소요)  
 ![image](https://github.com/user-attachments/assets/917e7a9d-2aba-439c-9aa0-d0d2c2090cd6)  
 
+정답 수정후 init_points = 150, n_iter = 700
+![image](https://github.com/user-attachments/assets/b13750aa-72b0-404a-843f-605f3fb3d487)
+
+
 
 
 
