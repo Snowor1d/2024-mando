@@ -482,7 +482,8 @@ new parameters (init_points = 100, n_iter=500, 5시간 소요)
 정답 수정후 init_points = 150, n_iter = 700
 ![image](https://github.com/user-attachments/assets/b13750aa-72b0-404a-843f-605f3fb3d487)
 
-
+init_points = 150, n_iter - 400  
+![image](https://github.com/user-attachments/assets/a20d2e2f-c478-44cd-aa65-f6fc64f30da7)
 
 
 
