@@ -487,7 +487,18 @@ init_points = 150, n_iter = 400  (대략 5시간 소요)
 ![image](https://github.com/user-attachments/assets/a20d2e2f-c478-44cd-aa65-f6fc64f30da7)
 
 해당 parameters  
-![image](https://github.com/user-attachments/assets/ddabba3b-74d4-46bd-9784-61188d47f53f)
+![image](https://github.com/user-attachments/assets/ddabba3b-74d4-46bd-9784-61188d47f53f)  
+
+LLaMA3 이용 query 응답 (paragraph match -> 해당 paragraph 바탕으로 LLaMA3가 답하게 함)  
+keyword별 paragraph 매치 -> pargraph 바탕으로 질문 ( 이 텍스트가 주어졌을 때, test name 및 base specification은 무엇인가? )  
+프롬프트 엔지니어링 사용  
+Prompt engineering -> Zero-Shot Prompting (추가 학습 또는 예제 데이터 없이 답변 생성), One-shot prompting (하나의 예제 또는 템플릿 기반, 답변 생성), Few-Shot Prompting (두개~다섯개의 예제를 바탕으로 답변 생성)   
+
+One-shot prompting 이용  
+
+
+
+
 
 
 
