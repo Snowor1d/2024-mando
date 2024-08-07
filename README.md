@@ -496,7 +496,7 @@ Prompt engineering -> Zero-Shot Prompting (추가 학습 또는 예제 데이터
 
 One-shot prompting 이용  
 
-LLaMA3 프롬프트 엔지니어링  
+**LLaMA3 프롬프트 엔지니어링**  
 
 prompt : '''you are a helpful AI assistant. see this example. ( + pargraph 예시), in this text, Test name is Conducted Trnsient Emissions: CE 410,   
             and Base specification is ISO 7637-2. answer the questions with this information. An example is just an example,   
