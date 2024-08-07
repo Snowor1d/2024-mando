@@ -496,13 +496,19 @@ Prompt engineering -> Zero-Shot Prompting (추가 학습 또는 예제 데이터
 
 One-shot prompting 이용  
 
+LLaMA3 프롬프트 엔지니어링  
 
+prompt : '''you are a helpful AI assistant. see this example. ( + pargraph 예시), in this text, Test name is Conducted Trnsient Emissions: CE 410,   
+            and Base specification is ISO 7637-2. answer the questions with this information. An example is just an example,   
+            and you need to find the answer in the new text provided. The answer is within the question'''  
 
+question : '''( + 해당 pargraph) in this text, what is the test name? and what is the base specification? just answer with two words: test name, base specification.  
+              Don't show me any other words.'''  
 
-
-
-
-
+결과  
+![image](https://github.com/user-attachments/assets/88338df2-d3db-454b-92bd-d335ca035c00)
+           
+단락에서 test name과 base specification 검출시, 대략 90프로 정답률.  
 
 
 
