@@ -498,6 +498,11 @@ Prompt engineering -> Zero-Shot Prompting (추가 학습 또는 예제 데이터
 
 One-shot prompting 이용  
 
+![image](https://github.com/user-attachments/assets/15995f66-ff4a-466a-a2dc-63127a9e7762)  
+flat 문서를 제대로 안읽고 있어서 정답률 체크에 오류가 있었음. 제대로 읽게 하고 재평가 결과 pargraph 분류 정답률 94프로 (init_iter = 150, n_iter = 400)  
+![image](https://github.com/user-attachments/assets/db8a38a0-9a0f-4c94-8804-8e3717f8f04a)  
+
+
 **LLaMA3 프롬프트 엔지니어링**  
 
 prompt : '''you are a helpful AI assistant. see this example. ( + pargraph 예시), in this text, Test name is Conducted Trnsient Emissions: CE 410,   
