@@ -489,6 +489,8 @@ init_points = 150, n_iter = 400  (대략 5시간 소요)
 해당 parameters  
 ![image](https://github.com/user-attachments/assets/ddabba3b-74d4-46bd-9784-61188d47f53f)  
 
+## LLM 이용 query 응답  
+
 LLaMA3 이용 query 응답 (paragraph match -> 해당 paragraph 바탕으로 LLaMA3가 답하게 함)  
 keyword별 paragraph 매치 -> pargraph 바탕으로 질문 ( 이 텍스트가 주어졌을 때, test name 및 base specification은 무엇인가? )  
 프롬프트 엔지니어링 사용  
