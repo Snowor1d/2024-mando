@@ -518,7 +518,8 @@ question : '''( + 해당 pargraph) in this text, what is the test name? and what
            
 단락에서 test name과 base specification 검출시, 대략 90프로 정답률.  
 
-![image](https://github.com/user-attachments/assets/12f437c2-efdf-4139-988e-7eac014c276d)  
+![image](https://github.com/user-attachments/assets/75803fed-d8be-4224-881a-e7ebaadf828d)
+
 
 
 
