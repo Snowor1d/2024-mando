@@ -536,7 +536,10 @@ test4
  학습데이터 : 10, 검증 데이터 : 2  
 ![image](https://github.com/user-attachments/assets/c83dade3-ead7-4258-958b-7471935dd0c2)
 
-학습데이터 : 10, 검증 데이터 : 3
+학습데이터 : 9, 검증 데이터 : 3  
+![image](https://github.com/user-attachments/assets/ef2fa702-27a6-4077-9fc2-27049e8fccc5)  
+
+
 
 
 
