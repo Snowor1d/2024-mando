@@ -536,6 +536,10 @@ test4
 학습데이터 : 9, 검증 데이터 : 3  (n_init = 80, init_num = 100)  
 ![image](https://github.com/user-attachments/assets/ef2fa702-27a6-4077-9fc2-27049e8fccc5)  
 ![image](https://github.com/user-attachments/assets/e92cc0c7-435d-4d93-9df1-e0e19d1913a8)  
+![image](https://github.com/user-attachments/assets/df7fb359-fd32-474f-a1be-5dda03eb83e7)  
+
+
+
 
 
 
