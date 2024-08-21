@@ -533,9 +533,6 @@ test4
 ![image](https://github.com/user-attachments/assets/ec7e88ca-71fc-4f09-86f1-3d2839e9b0ff)  
 
  ----------------------------------------------------------------------------------------
- 학습데이터 : 10, 검증 데이터 : 2  
-![image](https://github.com/user-attachments/assets/c83dade3-ead7-4258-958b-7471935dd0c2)
-
 학습데이터 : 9, 검증 데이터 : 3  
 ![image](https://github.com/user-attachments/assets/ef2fa702-27a6-4077-9fc2-27049e8fccc5)  
 ![image](https://github.com/user-attachments/assets/e92cc0c7-435d-4d93-9df1-e0e19d1913a8)  
