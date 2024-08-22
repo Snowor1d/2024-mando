@@ -16,7 +16,7 @@ Meta의 오픈소스 LLM인 LAMMA를 다운 받습니다.
 https://ollama.com/  
 ollama를 다운받고, llama3 모델을 다운받습니다.  
 
-**gpu 사용시**
+**gpu 사용시**  
 https://huggingface.co/  
 gpu 사용시에는 huggingface에서 사용하려는 모델을 다운받아야 합니다. 로그인 후 토큰을 발급받고, 로컬에 저장합니다.  
 또한 사용하려는 모델에 대해 access request 승인을 받아야 합니다.  
