@@ -1,0 +1,46 @@
+---------------------------------
+<Bulk Current Injection Immunity>
+Test name : BCI-Immunity
+Base specification : ISO 11452-4
+
+---------------------------------
+<Conducted Emission  Current Method>
+Test name : Emission test
+Base specification : GB 18655-2002
+
+Test name : SR-Test
+Base specification : IEC
+
+---------------------------------
+<Conducted Emission  Voltage Method>
+Test name : ESD
+Base specification : CISPR
+
+---------------------------------
+<Electrostatic Discharge ESD  Unpowered Discharge>
+Test name : Hand Portable Transmitters' Noise Immunity Test
+Base specification : ISO 7637-3
+
+---------------------------------
+<Portable Transmitter Test>
+Test name : CV-TEST
+Base specification : ISO 7637-3
+
+---------------------------------
+<Radiated Emission>
+Test name : Radiated Emission
+Base specification : GB18655-2002
+
+---------------------------------
+<Transient Emission>
+Test name : Transient conduction emission test
+Base specification : ISO7637-2
+
+---------------------------------
+<Transient Immunity Supply lines>
+Test name : Electrical Disturbances
+Base specification : ISO 7637-2
+
+Test name : Radiation Immunity
+Base specification : ISO11452-2
+

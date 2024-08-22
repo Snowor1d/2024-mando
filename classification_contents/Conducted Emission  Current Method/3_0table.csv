@@ -1,0 +1,11 @@
+Classification Voltage change ratio,Current change ratio,Requirements
+(dV/dt),(dI/dt),
+1 dU/dt ≤ 200mV/μs,dI/dt ≤ 20mA/μs,Qualified
+2 0.2V/μs < dU/dt ≤,20mA/μs < dI/dt ≤,"Risky, need to"
+10V/μs,100mA/μs,add protection
+3 dU/dt > 10V/μs,dU/dt > 100mA/μs,Not qualified
+Note:,,
+"When close to antenna to other sensitive devices, protective measures need to be taken for the",,
+sensitive devices;,,
+"Generally common in control elements, such kind of signal is inevitable, corresponding measures",,
+need to be taken for the sensitive devices.,,

@@ -1,0 +1,40 @@
+JLR-EMC-CS_v1.0_Amendment_4.pdf
+pdf
+8
+109
+7.0 Radiated RF Emissions: RE 310
+2
+8.0 Conducted RF Emissions: CE 420
+1
+9.0 Conducted Transient Emissions: CE 410
+5
+10.3 RI 112 Specific Test Details
+6
+10.4 RI 114 Specific Test Details
+7
+10.4.1 ALSE method (Bands 4 and 5)
+
+10.5 RI 115 Specific Test Details
+9
+11.0 Magnetic Field Emissions: RE 320
+3
+12.0 Magnetic Field Immunity: RI 140
+10
+13.0 Coupled Immunity: RI 130
+
+14.0 Coupled Immunity: RI 150
+
+15.0 Immunity from Transient Disturbances: CI 220
+11
+16.0 Immunity from Power Cycling: CI 230
+
+17.0 Immunity to Ground Voltage Offset: CI 250
+
+18.0 Immunity to Low Voltage Transients: CI 265
+
+
+
+
+
+
+

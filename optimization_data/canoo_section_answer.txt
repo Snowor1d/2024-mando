@@ -1,0 +1,21 @@
+DRM_OFF/Latest_CANOO_Lifestyle_Vehicle_Requirements_Canoo_Product_Development_St....pdf
+pdf
+5
+30
+5.1 Radiated RF Emissions
+2
+5.2 Conducted RF Emissions
+
+5.3 RF Immunity
+
+5.4 Magnetic Field Immunity
+10
+5.5 Conducted Transient Immunity – Supply Lines
+
+5.6 Conducted Transient Immunity – Signal Lines
+12
+5.7 Conducted Transient Emissions
+5
+5.8 Electrostatic Discharge
+13 14
+5.9 Supply Voltage Range

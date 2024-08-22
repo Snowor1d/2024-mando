@@ -1,0 +1,7 @@
+a),Pre-calibration should be performed depending on the limits selected for interfering signals
+,generated from signal generator and power amplifier;
+b),"Monitoring probe should be placed 50mm from DUT connector, current injection probe"
+,should be placed at a distance of 50mm from monitoring probe.
+c),"In frequency range of 10kHz - 400MHz, signal modulation of 1kHz and 50% dutyfactor"
+,should be applied to the signal generator.
+d),"Applied disturbance to the related cable of DUT, and monitor whether the DUT is disturbed"

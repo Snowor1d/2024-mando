@@ -1,0 +1,24 @@
+DRM_OFF/CS.00054_.pdf
+pdf
+12
+50
+5.6.1 CISPR-25 Conducted RF Emissions - (Voltage on Supply Lines)
+0
+5.6.2 CISPR-25 Conducted RF Emissions - (Current on all Lines in Harness)
+1
+5.6.3 CISPR-25 Radiated Emissions
+2
+5.7 Conducted Transient Emissions
+5
+5.8.1 Radiated Immunity: BCI
+6
+5.8.2 Radiated Immunity: ALSE
+7
+5.8.3 Magnetic Field Immunity
+10
+5.9.1 Transient Immunity of Supply Lines
+11
+5.9.2 Transient Immunity of I/O or Sensor Lines – Coupling Clamp (CCC)
+11 12
+5.9.3 Transient Immunity of I/O or Sensor Lines - Direct Capacitive Coupling (DCC)
+11 12

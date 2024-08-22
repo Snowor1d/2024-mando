@@ -1,0 +1,25 @@
+DRM_OFF/WM_EMC Specs_2018_06_29.pdf
+pdf
+6
+50
+7 transient conduction emission (CE01)
+5
+8 Electromagnetic conduction emission (CE02)
+0 1
+9 emitted electromagnetic radiation (RE01)
+
+Transient conduction Immunity 10 (to Ci01)
+11
+Transient immunity coupling 11 (CI02)
+12
+Electromagnetic radiation Immunity 12 (BCI) (RI01)
+6
+13 electromagnetic radiation immunity (ALSE) (RI02)
+7
+14 hand-held transmitter immunity (RI03)
+9
+15 magnetic field immunity (RI04)
+10
+16 electrostatic discharge (ESD01)
+13 14
+Appendix A

@@ -1,0 +1,11 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,+-8KV,5,1s,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+,,,"aerialdischarge",+-15KV,10,1s,,,,
+"Power-upmode",Direct discharge,Surface(plastic),"330pf,330ohm","aerialdischarge",+-4KV,10,1s,I,I,I
+,,"330pf,330ohm","aerialdischarge",+-8KV,10,1s,II,I,I,
+,,"330pf,330ohm","aerialdischarge",+-15KV,10,1s,II,II,I,
+,Surface(metal),"330pf,330ohm",Contact,+-4KV,10,1s,I,I,I,
+,,"330pf,330ohm",Contact,+-8KV,10,1s,II,II,I,
+,,"330pf,330ohm","aerialdischarge",+-15KV,10,1s,II,II,I,
+Indirect discharge,,"330pf,330ohm","aerialdischarge",+-4KV,10,1s,I,I,I,
+"330pf,330ohm","aerialdischarge",+-8KV,10,1s,II,I,I,,,
+"330pf,330ohm","aerialdischarge",+-15KV,10,1s,II,II,I,,,

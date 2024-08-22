@@ -1,0 +1,9 @@
+"Conductedtransientemissiontest",CTE-test,Unnamed: 0,√,√.1,√.2,√.3,Unnamed: 1,Unnamed: 2,√.4,√.5
+"Changeratetestoftransientvoltage/current",SR-test,,,,,√,√,√,√,√
+"Noiseimmunitytest",BCI-test,,,,√,√,√,√,√,√
+,ALSE-test,,,,√,√,√,√,√,√
+,"Handportabletransmitters",,,,√,√,√,√,√,√
+"Immunitytesttolowfrequencymagneticfield",LFM-test,,,,,,,√,,
+"Immunitytestoftransientconduction",TSOP-test,√,,,√,√,,√,√,√
+,TOL-test,,,,√,√,,√,√,√
+"Electro-Static discharge",ESD-test,√,,,√,√,√,√,√,√

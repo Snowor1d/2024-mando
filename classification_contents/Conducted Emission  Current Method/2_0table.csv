@@ -1,0 +1,11 @@
+No. Band name,Unnamed: 0,Frequency,PK,Unnamed: 1,QP,Unnamed: 2,AV,Unnamed: 3
+,,,Limits,Bandwidth,Limits,Bandwidth,Limits,Bandwidth
+,,MHz,dB(μV),KHz,dB(μV),KHz,dB(μV),KHz
+Basic Limits,,,,,,,,
+B9,,30~108,28,120,-,-,8,120
+Broadcast,,,,,,,,
+15 USW,,76~108,-2,120,-15,120,-22,120
+19 TV I,,47~88,14,1000,-,-,-1,1000
+20 TV II,,90~108,9,1000,-,-,-6,1000
+Mobile service,,,,,,,,
+25 4m/BOS,,84.015~87.255,7,120,-,-,-26,9

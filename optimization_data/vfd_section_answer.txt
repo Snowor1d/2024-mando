@@ -1,0 +1,44 @@
+DRM_OFF/VFDST00026302 - EMC - Components below 60V.PDF
+pdf
+4
+44
+4.2 RF-Emissions Measurements at the artificial network (AN)
+
+4.3 RF-Emissions - Measurement with antennas (RE)
+2
+4.4 RF-emissions Capacitive voltage measurement (CV)
+
+4.5 RF-Emissions Measurement with the current probe (CP)
+
+4.6 RF-Emissions - Measurement with the stripline (SL)
+
+4.7 Transient emissions on supply lines (TE)
+5
+4.8 Slew rate clocked signal (SR)
+
+5.1 Standard test conditions
+
+5.2 RF-immunity to interference - Bulk current injection (BCI)
+6
+5.3 RF-immunity to interference - Using antennas (ALSE)
+
+5.4 RF-immunity to interference - Stripline method (STR)
+
+5.5 RF-immunity to interference - Bulk current injection (BCICL)
+6
+5.6 Immunity to magnetic fields
+10
+5.7 Transients on supply lines (TSUP)
+11
+5.8 Transients on lines except for supply lines (TOL)
+12
+5.9 Electrostatic discharge - Handling Test (ESDH)
+13
+5.10 Electrostatic discharge (Powered Up) - Direct discharge (ESDD)
+14
+5.11 Electrostatic discharge (Powered Up) - indirect discharge (ESDI)
+
+
+
+
+

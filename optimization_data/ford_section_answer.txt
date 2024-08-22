@@ -1,0 +1,47 @@
+DRM_OFF/FORD_EMC Specs_REV3.pdf
+pdf
+3
+140
+8.0	Radiated RF Emissions: RE 310
+2
+9.0	Conducted RF Emissions: CE 420
+0
+10.0	Conducted Emissions: CE 421
+1
+11.0	Conducted Transient Emissions: CE 410
+5
+12.0	RF Immunity:  RI 112, RI 114, RI 115
+
+12.5 Requirements 1 -400 MHz: RI 112
+6
+12.6 Requirements: 360 – 3100 MHz: RI 114
+7 8
+12.7 Requirements 360 – 2700 MHz: RI 115
+9
+13.0	Magnetic Field Immunity: RI 140
+10
+14.0	Coupled Immunity: RI 130
+
+15.0	Coupled Immunity: RI 150
+
+16.0	Immunity from Continuous Power Line Disturbances: CI 210
+
+17.0	Immunity from Transient Disturbances:  CI 220
+11
+18.0	Immunity from Transient Disturbances:  CI 221
+
+19.0	Immunity from Load Dump:  CI 222
+
+20.0	Immunity from Power Cycling: CI 230
+
+21.0	Immunity from Power Cycling:  CI 231
+
+22.0	Immunity to Ground Voltage Offset:  CI 250
+
+23.0	Immunity to Voltage Dropout:  CI 260
+
+25.0	Electrostatic Discharge:  CI 280
+13 14
+26.0	EMF: RE 320
+
+27.0	Radiated LF Emissions: RE 330

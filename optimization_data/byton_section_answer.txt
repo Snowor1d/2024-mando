@@ -1,0 +1,60 @@
+DRM_OFF/Byton_EE_Component_EMC_Specification_v1.1.pdf
+pdf
+13
+190
+6 Conducted Emissions
+
+6.1 Voltage Method
+0
+6.2 Current Probe Method
+1
+6.3 Transient Emissions from Power Lines
+5
+7 Conducted Immunity
+
+7.1 Conducted Audio Frequency
+
+7.2 Bulk Current Injection
+6
+7.3 Transients on Power Lines
+11
+7.4 Transients on Lines other than Supply Lines, CCC.
+12
+7.5 Transients on Lines Other than Supply Lines, DCC.
+12
+8 Radiated Emissions
+
+8.1 ALSE
+2
+8.2 ALSE China
+
+8.5 Magnetic Field Emissions
+3
+9 Radiated Immunity
+
+9.1 Portable Transmitters
+9
+9.2 Magnetic Fields
+10
+9.3 ALSE
+7
+9.4 Stripline
+
+10 ESD
+
+10.2 Powered On: Direct
+14
+10.3 Powered On: Indirect
+
+10.4 Powered On: Remote IO/Comm
+
+10.5 Powered Off: Handling
+13
+11 HV - LV Coupling Attenuation
+
+
+
+
+
+
+

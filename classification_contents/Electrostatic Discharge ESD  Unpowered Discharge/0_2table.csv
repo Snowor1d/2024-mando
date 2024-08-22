@@ -1,0 +1,6 @@
+Frequency(KHz),Strength of magnetic,Type of modulation,Technical
+,field (A/m),,requirements
+0(DC),1000,DC,Status I
+0.015~0.06,1000,CW,
+0.06~6,60/f,CW,
+6~30,10,CW,

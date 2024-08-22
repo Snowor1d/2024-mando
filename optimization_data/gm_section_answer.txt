@@ -1,0 +1,43 @@
+DRM_OFF/GM_EMC Specs_June 2015.pdf
+pdf
+1
+65
+3.3.1 RE, Absorber Lined Shielded Enclosure (ALSE).
+2
+3.3.2 RF_CE Via Artificial Network (AN).
+0
+3.3.3 Magnetic Fields (PEPS LF).
+3
+3.3.4 ALSE, Low-Frequency E- and H-Field
+
+3.4 Radiated Immunity (RI).
+
+3.4.1 RI, Bulk Current Injection (BCI).
+6
+3.4.2 RI, Anechoic Chamber.
+8
+3.4.3 RI, Reverberation Chamber, Mode Tuning.
+
+3.4.4 RI, Near-Field, Portable Transmitters.
+9
+3.4.5 Immunity to Magnetic Fields.
+10
+3.5.1 CE, Transients.
+5
+3.5.2 CI, Nominal 12 V Lines.
+11
+3.5.3 CI, Coupling (CCC or DCC) to I/O (excludes nominal 12 V lines).
+12
+3.5.4 CI, Coupling (DCC/CCC)
+
+3.5.5 CI, Coupling (DCC on I/O and regulated supply lines, 85 V).
+12
+3.5.6 CI, Alternator Direct Capacitor Coupling.
+
+3.6 Electrostatic Discharge.
+
+3.6.2 ESD, Remote Inputs/Outputs.
+
+3.6.3 ESD, Handling of Devices.
+13 14
+3.7.2 DC Brush-Commutated Motors

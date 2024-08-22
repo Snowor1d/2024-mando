@@ -1,0 +1,15 @@
+emission, dBuV, frequency, CISPR
+current, LISN, probe, dBμA, 50, antenna, MHz, CISPR
+emission, dBμV/m, antenna, mhz, khz, 1700, 2000, vertical, CISPR
+emission, ALSE, dBμA/m, dB (μA/m), antenna
+Voltage, capacitive
+V, ISO, 7637
+immunity, dBuA, mA, Injection, probe, ISO, BCI, current
+CW, AM, PM1, frequency, MHz, antenna, horn, 11452-2
+immunity, PM2, frequency, GHz, antenna, ISO
+immunity, watt, antenna, portable, ISO, 11452-9
+immunity, DC, AC, mT, uT, antenna, coil, ekhz,
+immunity, pulse, 2a, 2b, Us, V
+immunity, signal, pulse, 3b, coupling, ISO, 7637-3
+electrostatic, discharge, handling, Contact, resistor, 10605
+electrostatic, discharge, ESD, powered, Air, Contact, resistor, capacitance, kV, direct

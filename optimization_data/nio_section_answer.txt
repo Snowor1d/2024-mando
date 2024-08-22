@@ -1,0 +1,49 @@
+DRM_OFF/7-NIO-TP.20.007-2022 Component level EMC Specification_V5.0.pdf
+pdf
+8
+170
+3.2 Emissions
+
+3.2.1 RE310:
+2
+3.2.2 CE 420:
+0
+3.2.3 CE 420-H:
+0
+3.2.4 CE 421:
+1
+3.2.5 CE 421-H:
+1
+3.3 Radiated Immunity
+
+3.3.3 RI 112:
+6
+3.3.4 RI 114: RI, Anechoic Chamber
+6
+3.3.5 RI 140:
+10
+3.3.6 RI 115:
+9
+3.4 瞬态传导发射和传导抗扰度 Transient Conducted Emissions (CE) and Conducted Immunity (CI)
+
+3.4.1 CE 410:
+5
+3.4.2 CI 220:
+11
+3.4.3 CI 130:
+12
+3.4.4 CI 131:
+
+3.5 Electrostatic Discharge (ESD)
+13 14
+3.5.2 CI 280:
+14
+3.5.3 CI 281:
+
+3.5.4 CI 282:
+13
+3.5.5 CI 283:
+
+3.6 PE 810:
+
+3.7 Test items for the electronic sub-assemblies connect to power grid

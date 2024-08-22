@@ -1,0 +1,10 @@
+6. Classification of importance of components : Conducted Emission - Voltage Method
+9. AN-test : Conducted Emission - Current Method
+10. CV-test : Conducted Emission - Current Method
+11. RE-test : Radiated Emission
+12.Emission test of Current probe (CP-test) : Conducted Emission - Current Method
+13.Transient conduction Emission test (CTE-test) : Transient Emission
+14.Test of change rate of transient voltage / current (SR-test) : Conducted Emission - Current Method
+15. The BCI immunity to conducted interference Test (BCI-test) : Bulk Current Injection: Immunity
+16.Radiation Immunity test (ALSE-test) : ALSE: Immunity
+17.Hand portable transmitters’ noise immunity Test : Electrostatic Discharge (ESD) - Unpowered Discharge

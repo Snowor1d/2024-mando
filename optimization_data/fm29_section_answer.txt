@@ -1,0 +1,28 @@
+DRM_OFF/FM29_Spec-Book_CES_014_EMC_Standard_Component_V0.1.0.pdf
+pdf
+4
+53
+3.4.3 Artificial network measurements (AN-Test)
+0
+3.4.4 Antenna measurements (RE-Test)
+2
+3.4.5 Transient emissions on supply lines (CTE-Test)
+5
+3.4.6 Slew rate of pulsed signals (SR-Test)
+
+3.4.7 Bulk current injection (BCI-Test, substitution method)
+6
+3.4.8 Antenna Irradiation (ALSE-Test)
+7
+3.4.9 Magnetic field immunity (LFM-Test)
+10
+3.4.10 Transients on supply lines (TSUP-Test)
+11
+3.4.11 Transients on lines except supply lines (TOL-Test)
+12
+3.4.12 Electrostatic discharge – Handling test (ESDH-Test)
+13
+3.4.13 Electrostatic discharge – Direct discharge (ESDD-Test)
+14
+3.4.14 Electrostatic discharge – Indirect discharge (ESDI-Test)
+

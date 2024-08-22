@@ -1,0 +1,9 @@
+Test impulse,A,B/C,Test time(minute)
+Impulse 1,II,II,10
+Impulse 1b,II,I,10
+Impulse 2a,II,I,10
+Impulse 2b,II,II,10
+Impulse 3a,II,I,10
+Impulse 3b,II,I,10
+Impulse 4,"Follow requirementsof test plan",II,5 impulses
+Impulse 5a/5b,"Follow requirementsof test plan","Follow requirementsof test plan",5 impulses

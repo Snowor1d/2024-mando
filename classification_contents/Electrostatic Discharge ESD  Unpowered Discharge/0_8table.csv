@@ -1,0 +1,10 @@
+Test mode,Position of,Discharge model,Discharge,Level,Discharge.1,Time,Requirements
+,discharge,parameters,mode,,,interval,
+,,,,,,,A B C
+Non-power mode,Pin,"150pf, 330ohm",Contact,+-2KV,3.0,1s,I
+,,,,+-4KV,3.0,1s,
+,,,,+-6KV,3.0,1s,
+,Surface(plastic),"150pf, 330ohm",aerial,+-4KV,10.0,1s,
+,,,discharge,+-8KV,10.0,1s,
+,,,,+-15KV,10.0,1s,
+,Surface(metal),"150pf, 330ohm",Contact,+-4KV,5.0,1s,

@@ -1,0 +1,16 @@
+emission, voltage, LISN, dB(μV), dBμV, dbμV, dBuV, frequency, 200, MHz, CISPR, antenna
+emission, current, LISN, probe, dB(μA), dBμA, dbμA, dBuA, 50, 750, antenna, frequency, MHz, CISPR, antenna
+emission, ALSE, dBμV/m, dB (μV/m), antenna, frequency, mhz, khz, 1700, 2000, vertical, horizontal, CISPR 
+emission, ALSE, dBμA/m, dB (μA/m), loop, antenna, frequency, MHz, ISO, mm, magnetic, coil
+emission, Capacitance, Voltage, capacitive, frequency, MHz 
+emission, CCC, V, conduction, pulse, peak, ISO, 7637 
+immunity, CW, AM, dBuA, mA, frequency, MHz, 400, Injection, probe, ISO, 11452-4, BCI, current, injection, mm
+immunity, CW, AM, PM1, V/m, frequency, MHz, antenna, rod, log, horn, ISO, 11452-2 
+immunity, PM2, V/m, frequency, MHz, GHz, antenna, horn, ISO, 11452 
+immunity, PM, watt, W, frequency, MHz, antenna, portable, 50, ISO, 11452-9 
+immunity, DC, AC, frequency, Hz, dbuA/m, dBuA/m, mT, uT, B, antenna, loop, helmholtz, ISO, 11452-8, coil, ekhz, 
+immunity, power, pulse, 2a, 2b, Us, V, ISO, 7637-2
+immunity, signal, pulse, 3a, 3b, coupling, fixture, slot, Us, V, ISO, 7637-3 
+electrostatic, discharge, ESD, unpowered, handling, Air, Contact, resistor, capacitance, kV, pF, kΩ, ISO, 10605 
+electrostatic, discharge, ESD, powered, Air, Contact, resistor, capacitance, kV, pF, Ω, ISO, 10605, direct, harness
+

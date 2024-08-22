@@ -1,0 +1,9 @@
+Test impulse,A,B/C,Test time(min)
+Fast impulse,II,I,5.0
+a,,,
+Fast impulse,II,I,5.0
+b,,,
+Slow impulse,II,I,5.0
+a,,,
+Fast impulse,II,I,5.0
+b,,,

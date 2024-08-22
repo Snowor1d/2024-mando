@@ -1,0 +1,32 @@
+DRM_OFF/FAW_JA3700-MH3_EMC Specs.pdf
+pdf
+9
+170
+6. Classification of importance of components
+
+9. AN-test
+0 1
+10.CV-test
+
+11. RE-test
+2
+12.Emission test of Current probe (CP-test)
+
+13.Transient conduction Emission test (CTE-test)
+5
+14.Test of change rate of transient voltage / current (SR-test)
+
+15. The BCI immunity to conducted interference Test (BCI-test)
+6
+16.Radiation Immunity test (ALSE-test)
+7
+17.Hand portable transmitters’ noise immunity Test
+9
+18.Low-frequency magnetic field immunity (LFM-test)
+10
+19.Transient conduction immunity of Power cord (TSOP-test)
+11
+20.Transient noise immunity test of signal wire (TOL-test)
+12
+21.Electrostatic discharge test (ESD - test)
+13 14
