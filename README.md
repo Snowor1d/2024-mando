@@ -538,6 +538,12 @@ test4
 ![image](https://github.com/user-attachments/assets/e92cc0c7-435d-4d93-9df1-e0e19d1913a8)  
 ![image](https://github.com/user-attachments/assets/df7fb359-fd32-474f-a1be-5dda03eb83e7)  
 
+일반화 성능 확인  
+
+## table및 image데이터 처리 
+tabula-py등의 라이브러리를 이용해여 paragraph를 분류할때 안에 있는 표나 그림데이터를 따로 저장하는 기능 추가  
+![image](https://github.com/user-attachments/assets/1307fceb-20af-4bb4-9e32-c1ab8ab7694d)  
+
 
 
 
