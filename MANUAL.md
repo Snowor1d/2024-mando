@@ -33,7 +33,7 @@ https://www.oracle.com/java/technologies/downloads/
 나누고자 하는 sections을 입력할때는 소제목등을 파일에서 그대로 복사 붙여넣기 하는 것을 추천합니다.
 
 **optimization_data**  
-![image](https://github.com/user-attachments/assets/210bb3dd-c7d4-4363-a907-da8b1a86ca28)
+![image](https://github.com/user-attachments/assets/210bb3dd-c7d4-4363-a907-da8b1a86ca28)  
 optimization_data는 문서 분류의 정확도를 높이고자 할때 수정할 수 있습니다. 
 
 ![image](https://github.com/user-attachments/assets/590d6d78-fe99-427a-8e0e-888cb21a9101)  
@@ -44,7 +44,7 @@ optimization_data 안에는 다음과 같은 txt파일이 있습니다. 내부�
 ![image](https://github.com/user-attachments/assets/3000e8f0-6bc7-4844-87f1-d4639721b2b6) 
 classification_contents 폴더에서 다음과 같이 각 테스트 항목 별로 텍스트, 표, 그림이 저장됩니다.  
 ![image](https://github.com/user-attachments/assets/728fd87c-395b-4b67-877f-4015d190b8a3)  
-가장 앞에 붙은 숫자는 매치된 섹션을 구분하기 위함입니다. 0_~, 1_~, 2~_ 까지 있다면 해당 Test에 매치된 sections가 3개가 있다는 의미입니다.  
+가장 앞에 붙은 숫자는 매치된 섹션을 구분하기 위함입니다. 0, 1, 2까지 있다면 해당 Test에 매치된 sections가 3개가 있다는 의미입니다.  
 
 llama_result.txt에서는 LLM 모델이 각 테스트에서 뽑아낸 키워드가 기록됩니다.    
 ![image](https://github.com/user-attachments/assets/393e2164-8975-41b0-b6a6-d96718963279)
